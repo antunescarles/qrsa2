@@ -1,0 +1,10 @@
+Que la aplicación sugiera qué materias puedo cursar cuando creo un nuevo año. Se pueden sugerir para cursar aquellas que
+	- No se han cursado anteriormente.
+	- No están trabadas por correlatividades con materias anteriores.
+	- No están trabadas por correlatividades en bloque.
+
+Que se pueda distinguir en el PLAN DE ESTUDIO y en el CURSADO los dos cuatrimestres del año.
+
+Que se puedan incluir en el plan de estudio materias optativas, electivas y otros tipos de materias que no se saben de antemano (por ej, materias de otra universidad).
+
+Que se pueda armar un plan de cursado considerando que se van a aprobar las materias, pero que si al terminar de cursar quedaste libre, que puedas marcar la materia como 'no aprobada' y que marque como 'no cursable en este cuatrimestre' las materias que tiene correlatividad con ella.
