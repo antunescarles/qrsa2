@@ -7,4 +7,29 @@ Que se pueda distinguir en el PLAN DE ESTUDIO y en el CURSADO los dos cuatrimest
 
 Que se puedan incluir en el plan de estudio materias optativas, electivas y otros tipos de materias que no se saben de antemano (por ej, materias de otra universidad).
 
+Las materias se pueden trabar por:
+	- Quedar libre DURANTE el cursado.
+	- Perder la regularidad al reprobar 3 veces el examen final o no haber aprobado antes de transcurrido el año y medio que dura la misma.
+
 Que se pueda armar un plan de cursado considerando que se van a aprobar las materias, pero que si al terminar de cursar quedaste libre, que puedas marcar la materia como 'no aprobada' y que marque como 'no cursable en este cuatrimestre' las materias que tiene correlatividad con ella.
+
+Supongamos que se planifico una materia por cada cuatri en el siguiente esquema.
+1	C_Basica
+2	C_CalculoI
+3	C_...
+4	C_ISOII
+
+Luego de cursar básica, se queda libre en el cursado.
+1	C_Basica (libre)
+2	C_CalculoI
+3	C_...
+4	C_ISOII (Cursado bloqueado por correlatividad en bloque)
+
+Para el cursado C_ISOII hay dos posibilidades: 
+	a) Posponer el cursado, recursando básica en su lugar.
+	b) Planificar el cursado de ISOII en el mismo momento de todas formas.
+		i) Aprobar la correlatividad por examen antes de llegar al cuatrimestre de ISOII
+		ii) Pedir extensión de regularidad.
+		iii) Otras formas : cursar como oyente, cambios o exepciones en el reglamento por situaciones extraordinarias como paros, etc.
+
+Poder representar materias anuales.
