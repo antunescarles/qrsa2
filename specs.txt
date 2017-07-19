@@ -34,4 +34,11 @@ Para el cursado C_ISOII hay dos posibilidades:
 
 Poder representar materias anuales.
 
-****** Push desde Rodolfo ****
+[Se debe poder ver sugerencias de materias anuales y cuatrimestrales para cursar.]
+
+Seleccionado un cuatrimestre se quiere ver sgurencias para ese cuatrimestre y también las anuales (ya que ocuparán tiempo del cuatri).
+Se debe sugerir una materia cuado no hay cursados previos que estén en curso, regulares, aprobados, planificados o condicionales. Es decir, cuando no hay cursados previos o los únicos que hay están libres o bloqueados. Tampoco se deben sugerir las materias NO OBLIGATORIAS.
+
+[Se debe poder planificar cursados eligiendo de las sugeridas o del plan de estudio completo]
+
+Si la materia no está entre las sugeridas, se debe poder ver el plan de estudio completo y elegir la materia a planificar desde ahí. Por ejemplo, si sé que no voy a poder aprobar por final una materia que ya tengo regularizada (no va a aparecer sugerida), puedo agregarla buscandola en el plan de estudio.
