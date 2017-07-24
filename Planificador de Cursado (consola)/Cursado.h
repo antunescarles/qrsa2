@@ -20,7 +20,7 @@ public:
 	void pedirExtRegularidad();
 	void actualizarCorrelativs();
 	bool planificarCondicional();
-	void planificarLibre() // Si está BLOQUEADO, se puede cursarla como oyente. Cambia el estado a LIBRE.
+	void planificarLibre(); // Si está BLOQUEADO, se puede cursarla como oyente. Cambia el estado a LIBRE.
 };
 
 #endif
