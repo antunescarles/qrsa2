@@ -14,13 +14,17 @@ int main (int argc, char *argv[]) {
 	
 	
 	M.newAnio(nroAnio);
+	/** Mostrar los cursados */
+	M.addCursado(anIndx, "Calculo I");
 	
+	// Quiero cambiar el estado de las materias.
+	// Veo los cursados y elijo.
+	M.planificarComoCond(anIndx, "Calculo I");
 	
+	// Poner en estado EN CURSO solo a las materias planificadas del cuatri correspond y las anuales.
+	M.iniciarCursado(andIndx, /*cuatri=*/1); 
 	
-	M.addCursado(matIndx); 
-	
-	
-	// Elegir materia a agregar en el cursado.
+	M.aprobar(anIndx, "Calculo I");
 	
 	
 	
